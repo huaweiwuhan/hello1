@@ -13,7 +13,7 @@ import com.sanqing.dao.EducateDao;
 import com.sanqing.po.Educate;
 /**
  * @author BWeiMing
- *
+ * edit
  */
 public class EducateAction extends Action {
     private EducateDao dao=new EducateDao();
